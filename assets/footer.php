@@ -1,0 +1,77 @@
+
+    <div class="container-flueid bg-light">
+      <div class="container py-5">
+        <div class="row ">
+          <div class="col-md-6">
+            <div class="row">
+              <div class="col-md-8 bceLogo">
+                <img src="assets\images\Untitled design.svg" alt="">
+                <h6>BrainLess Buddies</h6>
+                <p class='mt-3'>Lorem ipsum dolor sit amet consectetur<br> adipisicing.</p>
+                <div  class=' socialMedia mt-5' >
+                  <i  class='fab fa-facebook text-dark '></i>
+                  <i class='fab fa-linkedin text-dark pl-3'></i>
+                  <i class='fab fa-github text-dark pl-3'></i>
+                </div>
+                <div class="copyri8 mt-3">
+                  <i class="far fa-copyright"></i>2021 The Brainless Buddies
+                </div>
+              </div>
+              <div class="col-md-4 mt-5">
+                <h4>Register As</h4>
+                <div>Participant</div>
+                <div>Mentor</div>
+              </div>
+            </div>  
+          </div>
+          <div class="col-md-6 mt-5">
+            <div class="row">
+              <div class="col-md-4">
+                <h4>About Us</h4>
+                <div>Participant</div>
+                <div>Mentor</div>
+              </div>
+              <div class="col-md-4">
+                <h4>Engage</h4>
+                <div>Participant</div>
+                <div>Mentor</div>
+              </div>
+              <div class="col-md-4">
+                <h4>Contact Us</h4>
+                <button class='btn btn-primary '>Mail Us <i class="fas fa-envelope"></i></button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    
+        <script src="http://websdk.sawolabs.com/sawo.min.js"></script>
+        <script>
+            var config = {
+                containerID: "sawo-container",
+                identifierType: "email", // can be either 'email' or 'phone_number_sms'
+                apiKey: "0c5f5b4f-b1c6-4a46-8539-5ef2b6ba0602", // add your api key here
+                onSuccess: (payload) => {
+          
+document.getElementById("status").innerHTML =
+                        "Login Success";
+                        var is_logged_in = true;
+                        
+                },
+            };
+            var sawo = new Sawo(config);
+            sawo.showForm();
+        </script>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
+
+
+
+            
