@@ -10,5 +10,5 @@
   2. They devote much of their valuable time to find previous year question papers.
   3. Our university is filled with talented content writers.
      To showcase their blogging skills, there is no any single platform to upload blogs and get exposure. 
-  4. Not having discussion forum  to have discussion with fellow mates and seniors also not fully aware of virtual events and ongoing hackathons.
+  4. Not having discussion forum  to have chat with fellow mates and seniors also not fully aware of virtual events and ongoing hackathons.
   
