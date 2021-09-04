@@ -6,12 +6,13 @@ include 'assets/navbar.php';
 <div class="homePage container">
     <div class="row">
         <div class="col-md-6 text-white my-5">
-            <h1 >It’s time we started <span id='brainless'>BRAINLESS</span> each other. </h1>
+            <h1 >Hello there, <span id='brainless'>This is EDU-360.</span> </h1>
+            <br><h3>One stop destination for Academics plus Innovative Workspace for AKU.</h3> 
             <div ><i class="fas fa-dove"></i> <i class="fas fa-dove"></i></div>
             <br>
             
             <p class='mt-4'>
-            <h2>Hello there, This is EDU-360. </h2><br><h3>One stop destination for Academics plus Innovative Workspace for AKU.</h3>
+            
             <br><h4>Here are some features of EDU-360</h4><br>
 
             ExamSpace - A place to find the previous year papers that serves the new AKU curriculum
