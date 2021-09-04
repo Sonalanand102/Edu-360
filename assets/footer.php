@@ -9,8 +9,8 @@
                 <h4>BrainLess Buddies</h4>
                 <p class='mt-3'><h5>Positive Vibes Only</h5></p>
                 <div  class=' socialMedia mt-5' >
-                 <a href=""><i class='fab fa-facebook text-dark '></i></a> 
-                 <a href=""><i class='fab fa-linkedin text-dark pl-3'></i></a> 
+                 <a href="https://www.facebook.com/"><i class='fab fa-facebook text-dark '></i></a> 
+                 <a href="https://www.linkedin.com/"><i class='fab fa-linkedin text-dark pl-3'></i></a> 
                  <a href="https://github.com/Nitish-web-nik/Edu-360"><i class='fab fa-github text-dark pl-3'></i></a> 
 
                 </div>

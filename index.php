@@ -1,6 +1,8 @@
 <?php
+include 'assets/config.php';
 include 'assets/header.php';
 include 'assets/navbar.php';
+
 ?>
 
 <div class="homePage container">
@@ -21,7 +23,7 @@ include 'assets/navbar.php';
             <br><br> Discussion Panel - All the queries and doubts will be resolved here
 
             </p>
-            <button id='register-btn'>Register yourself</button>
+            <button id='register-btn'><a href="contact.php">Contact Us</a></button>
         </div>
         <div class="col-md-6">
             <img src="assets\images\Untitled design.gif" alt="">
@@ -31,16 +33,20 @@ include 'assets/navbar.php';
     <div class="studySpace text-center" style='background-color:#121e42; color:#fff;border-radius:10px; margin-top:-100px;'>
       <div class="row" style='font-size:32px; padding:20px; word-spacing:3px; '>
         <div class="col-md-6">
-          <i class="fas fa-book"></i>
-          <div>
-            Exam Space <br>
-          </div>
+            <a href="exam_space.php">
+                <i class="fas fa-book"></i>
+                <div>
+                Exam Space 
+                </div>
+            </a>
         </div>
         <div class="col-md-6">
-          <i class="fas fa-book-reader"></i>
-          <div>
-            Learn Space
-          </div>
+            <a href="learn_space.php" class=''>
+                <i class="fas fa-book-reader"></i>
+                <div>
+                    Learn Space
+                </div>
+            </a>
         </div>
       </div>
     </div>
@@ -54,24 +60,16 @@ include 'assets/navbar.php';
                 </tr>
             </thead>
             <tbody >
+                <?php
+                    $sel="SELECT * FROM `notification` ORDER BY `notification`.`id` DESC";
+                    $query = mysqli_query($conn,$sel);
+                    while($row=mysqli_fetch_assoc($query)){
+                ?>
                 <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-                    <td class='pl-4'>02-Sept-2021</td>
-                    <td class='text-center'>Result of B.Tech 4th sem is out.</td>
+                    <td class='pl-4'><?php echo $row['created_at'];?></td>
+                    <td class='text-center'><?php echo $row['notice'];?></td>
                 </tr>
-                <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'" >
-                    <td class='pl-4'>04-Sept-2021</td>
-                    <td class='text-center'>Response required for English Communication Skills Training.</td>
-                </tr>
-                <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-                    <td class='pl-4'>05-Sept-2021</td>
-                    <td class='text-center'>Teacher's Day Celebration at BCE Campus.</td>
-                </tr>
-                
-                <tr  onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-                    <td class='pl-4'>16-Sept-2021</td>
-                    <td class='text-center'>Induction Session | GDSC BCE Patna</td>
-                </tr>
-                
+                <?php } ?>              
             </tbody>
         </table>
     </div>

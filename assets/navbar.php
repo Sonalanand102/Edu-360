@@ -19,17 +19,17 @@
                         <div class="dropdown-item" ><a href="exam_space.php">Exam Space</a></div>
                         </div>
                     </div>
-                    <div class="menu-items p-3 mx-2"><a href="" >Discussion</a></div>
+                    <!-- <div class="menu-items p-3 mx-2"><a href="" >Discussion</a></div> -->
                     <div class="menu-items p-3 mx-2"><a href="about.php" >About Us</a></div>
                     <div class="menu-items p-3 mx-2"><a href="contact.php" >Contact Us</a></div>
-                    <div class="menu-items p-3 mx-2" ><a href="login.php" >Login</a></div>
+                    <!-- <div class="menu-items p-3 mx-2" ><a href="login.php" >Login</a></div> -->
                 </div>
             </div>
             <div class=" p-2">
                 <div class='socialMedia d-flex flex-row justify-content-center mt-3'>
-                    <div class='p-2 mx-2 sFb'><a href=""><i class="fab fa-facebook" ></i></a></div>
-                    <div class='p-2 mx-2 sLndn'><a href=""><i class="fab fa-linkedin" ></i></a></div>
-                    <div class='p-2 mx-2 sGit'><a href="https://github.com/Nitish-web-nik/Edu-360""><i class="fab fa-github" ></i></a></div>
+                    <div class='p-2 mx-2 sFb'><a href="https://www.facebook.com/"><i class="fab fa-facebook" ></i></a></div>
+                    <div class='p-2 mx-2 sLndn'><a href="https://www.linkedin.com/"><i class="fab fa-linkedin" ></i></a></div>
+                    <div class='p-2 mx-2 sGit'><a href="https://github.com/Nitish-web-nik/Edu-360"><i class="fab fa-github" ></i></a></div>
                 </div>
             </div>
         </div>

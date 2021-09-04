@@ -29,7 +29,7 @@
                     <div class="blog-inner heading-color">
                         <div class="blog-image">
                             <a href="" class="image"><img
-                                    src="assets\images\dsa.jpg " alt="" height='220px' width='100%'></a>
+                                    src="assets\images\dsa.jpg" alt="" height='250px' width='100%'></a>
                             <ul class="meta theme-color" style="list-style: none;">
                                 <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                             </ul>
@@ -51,7 +51,7 @@
                     <div class="blog-inner heading-color">
                         <div class="blog-image">
                             <a href="" class="image"><img
-                                    src="assets\images\daa.jpg" alt="" height='220px' width='100%'></a>
+                                    src="assets\images\daa.jpg" alt="" height='250px' width='100%'></a>
                             <ul class="meta theme-color" style="list-style: none;">
                                 <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                             </ul>
@@ -72,7 +72,7 @@
                     <div class="blog-inner heading-color">
                         <div class="blog-image">
                             <a href="" class="image"><img
-                                    src="assets\images\os.jpg " alt="" height='220px' width='100%'></a>
+                                    src="assets\images\os.jpg" alt="" height='250px' width='100%'></a>
                             <ul class="meta theme-color" style="list-style: none;">
                                 <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                             </ul>
@@ -103,7 +103,7 @@
                 <div class="blog-inner heading-color">
                     <div class="blog-image">
                         <a href="" class="image"><img
-                                src="assets\images\coa.jpg" alt="" height='220px' width='100%'></a>
+                                src="assets\images\coa.jpg" alt="" height='100%' width='100%'></a>
                         <ul class="meta theme-color" style="list-style: none;">
                             <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                         </ul>
@@ -125,7 +125,7 @@
                 <div class="blog-inner heading-color">
                     <div class="blog-image">
                         <a href="" class="image"><img
-                                src="assets\images\dbms.jpg" alt="" height='220px' width='100%'></a>
+                                src="assets\images\dbms.jpg" alt="" height='100%' width='100%'></a>
                         <ul class="meta theme-color" style="list-style: none;">
                             <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                         </ul>
@@ -146,7 +146,7 @@
                 <div class="blog-inner heading-color">
                     <div class="blog-image">
                         <a href="" class="image"><img
-                                src="assets\images\toc.png" alt="" height='220px' width='100%'></a>
+                                src="assets\images\toc.png" alt="" height='100%' width='100%'></a>
                         <ul class="meta theme-color" style="list-style: none;">
                             <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                         </ul>
@@ -175,7 +175,7 @@
                     <div class="blog-inner heading-color">
                         <div class="blog-image">
                             <a href="" class="image"><img
-                                    src="assets\images\ai.jpg" alt="" height='220px' width='100%'></a>
+                                    src="assets\images\ai.jpg" alt="" height='100%' width='100%'></a>
                             <ul class="meta theme-color" style="list-style: none;">
                                 <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                             </ul>
@@ -197,7 +197,7 @@
                     <div class="blog-inner heading-color">
                         <div class="blog-image">
                             <a href="" class="image"><img
-                                    src="assets\images\ml.jpg" alt="" height='220px' width='100%'></a>
+                                    src="assets\images\ml.jpg" alt="" height='100%' width='100%'></a>
                             <ul class="meta theme-color" style="list-style: none;">
                                 <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                             </ul>
@@ -218,7 +218,7 @@
                     <div class="blog-inner heading-color">
                         <div class="blog-image">
                             <a href="" class="image"><img
-                                    src="assets\images\cn.jpg" alt="" height='220px' width='100%'></a>
+                                    src="assets\images\cn.jpg" alt="" height='100%' width='100%'></a>
                             <ul class="meta theme-color" style="list-style: none;">
                                 <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                             </ul>

@@ -1,6 +1,22 @@
 <?php
+include('assets/config.php');
 include('assets/header.php');
 include('assets/navbar.php');
+if(isset($_POST['uploadblog_btn'])){
+    $shrt_desc=$_POST['blogTitle'];
+    $long_desc=$_POST['blogMsg'];
+    $img=$_FILES['blogImg']['name'];
+
+    $sql = "INSERT INTO `blogs`(`img`,`shrt_desc`,`long_desc`) VALUES('" . $img . "','" . $shrt_desc . "','" . $long_desc . "')";
+    $query = mysqli_query($conn, $sql);
+    if ($query) {
+        if (move_uploaded_file($_FILES["blogImg"]["tmp_name"], "assets/images/blog/" . $img))
+        echo "<script>alert('blog Uploaded successfully!!'); window.location='blog.php';</script>";
+    } else {
+        echo "<script>alert('can't upload blog!!retry...');window.location='blog.php';</script>";
+    }
+}
+
 ?>
 
 <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
@@ -65,114 +81,37 @@ include('assets/navbar.php');
             <a href="" data-toggle="modal" data-target="#exampleModal" class="pb-5" style="margin-left: auto;">
                 <h2 class="pb-5"><i class="fa fa-plus"></i> Post Blogs </h2>
             </a>
-            <div class="alert alert-warning alert-dismissible show" role="alert" style="margin-left: auto;">
-                <strong>Login First!!</strong> <small>to upload something</small>
-                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                    <span aria-hidden="true">&times;</span>
-                </button>
-            </div>
 
             <div class="row d-flex justify-content-center">
+            <?php
+                $select = "SELECT * FROM `blogs` ORDER BY `blogs`.`id` DESC";
+                $qry = mysqli_query($conn, $select);
 
+                while ($row = mysqli_fetch_array($qry)) {
+                    $path = "assets/images/blog/" . $row['img'];
+
+
+                ?>
                 <!-- Single Blog Start -->
                 <div class="blog-items mb-30 mb-xs-10 col-md-3 col-sm-3"
                     onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
                     <div class="blog-inner heading-color">
                         <div class="blog-image">
-                            <a href="" class="image"><img
-                                    src="assets\images\BCE-logo.jpg" alt="" height='100%' width='100%'></a>
+                            <a href="detail_blog.php?id=<?php echo $row['id'];?>" class="image"><img
+                                    src="<?php echo $path; ?>" alt="" height='245px' width='100%'></a>
                             <ul class="meta theme-color" style="list-style: none;">
-                                <li>12-5-2021<i class="fa fa-clock"></i></li>
+                                <li> <?php echo $row['created_at'];?><i class="fa fa-clock"></i></li>
                             </ul>
                         </div>
-                        <div class="content" style="margin-left: 20px;">
+                        <div class="content" style="margin-left: 20px; font-size:10px;">
                             <h3 class="title"><a
-                                    href="">Lorem ipsum dolor sit amet.</a>
+                                    href="detail_blog.php?id=<?php echo $row['id'];?>"><?php echo $row['shrt_desc'];?></a>
                             </h3>
                         </div>
                     </div>
                 </div>
                 <!-- Single Blog End -->
-
-                <!-- Single Blog Start -->
-                <div class="blog-items mb-30 mb-xs-10 col-md-3 col-sm-3"
-                    onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-                    <div class="blog-inner heading-color">
-                        <div class="blog-image">
-                            <a href="" class="image"><img
-                                    src="assets\images\BCE-logo.jpg" alt="" height='100%' width='100%'></a>
-                            <ul class="meta theme-color" style="list-style: none;">
-                                <li>12-5-2021<i class="fa fa-clock"></i></li>
-                            </ul>
-                        </div>
-                        <div class="content" style="margin-left: 20px;">
-                            <h3 class="title"><a
-                                    href="">Lorem ipsum dolor sit amet.</a>
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-                <!-- Single Blog End -->
-
-                <!-- Single Blog Start -->
-                <div class="blog-items mb-30 mb-xs-10 col-md-3 col-sm-3"
-                    onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-                    <div class="blog-inner heading-color">
-                        <div class="blog-image">
-                            <a href="" class="image"><img
-                                    src="assets\images\BCE-logo.jpg" alt="" height='100%' width='100%'></a>
-                            <ul class="meta theme-color" style="list-style: none;">
-                                <li>12-5-2021<i class="fa fa-clock"></i></li>
-                            </ul>
-                        </div>
-                        <div class="content" style="margin-left: 20px;">
-                            <h3 class="title"><a
-                                    href="">Lorem ipsum dolor sit amet.</a>
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-                <!-- Single Blog End -->
-
-                <!-- Single Blog Start -->
-                <div class="blog-items mb-30 mb-xs-10 col-md-3 col-sm-3"
-                    onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-                    <div class="blog-inner heading-color">
-                        <div class="blog-image">
-                            <a href="" class="image"><img
-                                    src="assets\images\BCE-logo.jpg" alt="" height='100%' width='100%'></a>
-                            <ul class="meta theme-color" style="list-style: none;">
-                                <li>12-5-2021<i class="fa fa-clock"></i></li>
-                            </ul>
-                        </div>
-                        <div class="content" style="margin-left: 20px;">
-                            <h3 class="title"><a
-                                    href="">Lorem ipsum dolor sit amet.</a>
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-                <!-- Single Blog End -->
-
-                <!-- Single Blog Start -->
-                <div class="blog-items mb-30 mb-xs-10 col-md-3 col-sm-3"
-                    onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-                    <div class="blog-inner heading-color">
-                        <div class="blog-image">
-                            <a href="" class="image"><img
-                                    src="assets\images\BCE-logo.jpg" alt="" height='100%' width='100%'></a>
-                            <ul class="meta theme-color" style="list-style: none;">
-                                <li>12-5-2021<i class="fa fa-clock"></i></li>
-                            </ul>
-                        </div>
-                        <div class="content" style="margin-left: 20px;">
-                            <h3 class="title"><a
-                                    href="">Lorem ipsum dolor sit amet.</a>
-                            </h3>
-                        </div>
-                    </div>
-                </div>
-                <!-- Single Blog End -->
+                    <?php } ?>    
 
             </div>
 

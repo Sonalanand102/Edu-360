@@ -5,7 +5,11 @@
     padding: 0;
 }
 
-
+a{
+    text-decoration:none; 
+    font-family:'poppins',sans-serif; 
+    color:rgb(230, 203, 203); 
+}
 
 body{
     background-color: #0b132a;
