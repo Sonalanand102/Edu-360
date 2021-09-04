@@ -9,9 +9,10 @@
                 <h6>BrainLess Buddies</h6>
                 <p class='mt-3'>EDU-360</p>
                 <div  class=' socialMedia mt-5' >
-                  <i  class='fab fa-facebook text-dark '></i>
-                  <i class='fab fa-linkedin text-dark pl-3'></i>
-                  <i class='fab fa-github text-dark pl-3'></i>
+                 <a href=""><i class='fab fa-facebook text-dark '></i></a> 
+                 <a href=""><i class='fab fa-linkedin text-dark pl-3'></i></a> 
+                 <a href="https://github.com/Nitish-web-nik/Edu-360"><i class='fab fa-github text-dark pl-3'></i></a> 
+
                 </div>
                 <div class="copyri8 mt-3">
                   <i class="far fa-copyright"></i>2021 The Brainless Buddies
