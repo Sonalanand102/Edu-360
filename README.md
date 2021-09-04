@@ -19,7 +19,7 @@
   3. Blog Section - In this section anyone with login credentials can post blogs.
   4. Discussion Panel - All the queries and doubts will be resolved here.
   5. Contact Us section - Any suggestions are welcomed and if anyone want to contribute they can.
-     Also this project is an open source.
+     Also this project is an open source project.
 ## 🛠 Tech Used
 - PHP
 - HTML

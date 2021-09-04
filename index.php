@@ -1,6 +1,6 @@
 <?php
-include ('assets/header.php');
-include ('assets/navbar.php');
+include 'assets/header.php';
+include 'assets/navbar.php';
 ?>
 
 <div class="homePage container">
@@ -8,7 +8,13 @@ include ('assets/navbar.php');
         <div class="col-md-6 text-white my-5">
             <h1 >It’s time we started <span id='brainless'>BRAINLESS</span> each other. </h1>
             <div ><i class="fas fa-dove"></i> <i class="fas fa-dove"></i></div>
-            <p class='mt-4'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos reiciendis, illum magnam, porro ab perferendis iste consequatur voluptatum dolores soluta maxime, debitis assumenda expedita?</p>
+            <p class='mt-4'>Hello there, This is EDU-360. One stop destination for Academics plus Innovative Workspace for AKU.
+            <br>
+            <br> ExamSpace - A place to find the previous year papers that serves the new AKU curriculum</br>
+            <br> LearnSpace - A place to find study materials of respective semesters. </br>
+            
+
+            </p>
             <button id='register-btn'>Register yourself</button>
         </div>
         <div class="col-md-6">
@@ -43,8 +49,8 @@ include ('assets/navbar.php');
             </thead>
             <tbody >
                 <tr  onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-                    <td class='pl-4'>12-1-2021</td>
-                    <td class='text-center'>Lorem ipsum dolor, sit amet consectetur adipisicing Lorem, ipsum dolor.</td>
+                    <td class='pl-4'>16-Sept-2021</td>
+                    <td class='text-center'>Induction Session | GDSC BCE Patna</td>
                 </tr>
                 <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'" >
                     <td class='pl-4'>12-1-2021</td>
@@ -63,5 +69,5 @@ include ('assets/navbar.php');
     </div>
 </div>
 <?php
-include ('assets/footer.php');
+include 'assets/footer.php';
 ?>
