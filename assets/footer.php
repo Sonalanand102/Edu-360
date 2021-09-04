@@ -7,7 +7,7 @@
               <div class="col-md-8 bceLogo">
                 <img src="assets\images\Untitled design.svg" alt="">
                 <h6>BrainLess Buddies</h6>
-                <p class='mt-3'>Lorem ipsum dolor sit amet consectetur<br> adipisicing.</p>
+                <p class='mt-3'>EDU-360</p>
                 <div  class=' socialMedia mt-5' >
                   <i  class='fab fa-facebook text-dark '></i>
                   <i class='fab fa-linkedin text-dark pl-3'></i>
@@ -19,8 +19,8 @@
               </div>
               <div class="col-md-4 mt-5">
                 <h4>Register As</h4>
-                <div>Participant</div>
-                <div>Mentor</div>
+                <div>Viewer</div>
+                <div>Editor</div>
               </div>
             </div>  
           </div>

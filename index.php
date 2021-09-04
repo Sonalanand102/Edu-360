@@ -12,7 +12,7 @@ include 'assets/navbar.php';
             
             <p class='mt-4'>
             <h2>Hello there, This is EDU-360. <br>One stop destination for Academics plus Innovative Workspace for AKU.</h2>
-            <br><h3>Here are some features of EDU-360</h3><br>
+            <br><h4>Here are some features of EDU-360</h4><br>
 
             ExamSpace - A place to find the previous year papers that serves the new AKU curriculum
             <br><br> LearnSpace - A place to find study materials of respective semesters
