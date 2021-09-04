@@ -19,9 +19,8 @@
                 </div>
               </div>
               <div class="col-md-4 mt-5">
-                <h4>Register As</h4>
-                <div>Viewer</div>
-                <div>Editor</div>
+                <h4>Login</h4>
+                <div>Get View and Edit Access by Logging <br>In</div>
               </div>
             </div>  
           </div>
@@ -29,13 +28,11 @@
             <div class="row">
               <div class="col-md-4">
                 <h4>About Us</h4>
-                <div>Participant</div>
-                <div>Mentor</div>
+                <div>Passionate, Motivated and Energized College Students</div>
               </div>
               <div class="col-md-4">
-                <h4>Engage</h4>
-                <div>Participant</div>
-                <div>Mentor</div>
+                <h4>Our Address</h4>
+                <div>Patna, Bihar<br> Pin Code - 803212 India</div>
               </div>
               <div class="col-md-4">
                 <h4>Contact Us</h4>
