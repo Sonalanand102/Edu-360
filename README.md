@@ -10,8 +10,7 @@
 - `Problem Statements`
   1. Students at our university are trailing behind while finding the appropriate orientation, i.e.  Where to study and what to study.  
   2. They have to devote much of their valuable time to find previous year question papers.
-  3. Our university is filled with talented content writers.
-     To showcase their blogging skills, there is no any single platform to upload blogs and get exposure. 
+  3. Our university is filled with talented content writers.To showcase their blogging skills, there is no any single platform to upload blogs and get exposure. 
   4. Not having discussion forum  to have chat with fellow mates and seniors also not fully aware of virtual events and ongoing hackathons.
   
  - `Our Respective Solutions`
@@ -41,6 +40,7 @@
 ## If you liked the project don't forget to star 🌟 and fork 🍽 the project.
 
 <h2 align="center">Made with ❤ by Brainless Buddies</h2>
+
 [![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
