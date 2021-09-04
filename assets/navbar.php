@@ -29,7 +29,7 @@
                 <div class='socialMedia d-flex flex-row justify-content-center mt-3'>
                     <div class='p-2 mx-2 sFb'><a href=""><i class="fab fa-facebook" ></i></a></div>
                     <div class='p-2 mx-2 sLndn'><a href=""><i class="fab fa-linkedin" ></i></a></div>
-                    <div class='p-2 mx-2 sGit'><a href=""><i class="fab fa-github" ></i></a></div>
+                    <div class='p-2 mx-2 sGit'><a href="https://github.com/Nitish-web-nik/Edu-360""><i class="fab fa-github" ></i></a></div>
                 </div>
             </div>
         </div>
