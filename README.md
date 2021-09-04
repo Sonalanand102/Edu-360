@@ -33,7 +33,7 @@
     <td align="center"><a href="https://github.com/Meenu-github"><img alt="" src="https://i.ibb.co/LQghFXC/IMG-20201210-WA0001.jpg" width="100px;" height=" 150px;"><br><sub><b> Meenu Singh </b></sub></a><br>💻 </a></td> </a></td>
     <td align="center"><a href="https://github.com/Sonalanand102"><img alt="" src="https://i.ibb.co/J2vLZXQ/IMG20191115163102.jpg" width="100px;" height=" 150px;"><br><sub><b>
  Sonal Anand </b></sub></a><br>💻 </a></td></a></td>
- <td align="center"><a href="https://github.com/Shruti3004"><img alt="" src="https://i.ibb.co/D41QvhT/fd32447769e741d188708bcf49eb81d6.jpg" width="100px;" height=" 150px;"><br><sub><b> Nitish Kumar </b></sub></a><br>💻 </a></td></a></td>
+ <td align="center"><a href="https://github.com/Nitish-web-nik"><img alt="" src="https://i.ibb.co/D41QvhT/fd32447769e741d188708bcf49eb81d6.jpg" width="100px;" height=" 150px;"><br><sub><b> Nitish Kumar </b></sub></a><br>💻 </a></td></a></td>
   </tr>
 </tbody></table>
 
