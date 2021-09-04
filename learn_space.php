@@ -1,6 +1,6 @@
 <?php
-    include('assets/header.php');
-    include('assets/navbar.php');
+    include 'assets/header.php';
+    include 'assets/navbar.php';
 ?>
 
 <div class="container" style='margin-top:150px; margin-bottom:32px;'>
@@ -9,7 +9,7 @@
     <div class="card-header" id="headingOne" style='background-color:#121e42;'>
       <h5 class="mb-0">
         <button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-          CIVIL ENGINEERING
+          COMPUTER SCIENCE AND ENGINEERING
         </button>
       </h5>
     </div>
@@ -285,5 +285,5 @@
 </div>
 
 <?php
-    include('assets/footer.php');
+    include 'assets/footer.php';
 ?>
