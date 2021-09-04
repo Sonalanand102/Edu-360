@@ -6,8 +6,8 @@
             <div class="row">
               <div class="col-md-8 bceLogo">
                 <img src="assets\images\Untitled design.svg" alt="">
-                <h6>BrainLess Buddies</h6>
-                <p class='mt-3'>EDU-360</p>
+                <h4>BrainLess Buddies</h4>
+                <p class='mt-3'><h5>Positive Vibes Only</h5></p>
                 <div  class=' socialMedia mt-5' >
                  <a href=""><i class='fab fa-facebook text-dark '></i></a> 
                  <a href=""><i class='fab fa-linkedin text-dark pl-3'></i></a> 
@@ -19,24 +19,24 @@
                 </div>
               </div>
               <div class="col-md-4 mt-5">
-                <h4>Login</h4>
-                <div>Get View and Edit Access by Logging <br>In</div>
+              <a href="login.php"<button type="button" class="btn btn-outline-info">Login</button></a>
+                <div><br>Get View and Edit Access by Logging <br>In</div>
               </div>
             </div>  
           </div>
           <div class="col-md-6 mt-5">
             <div class="row">
               <div class="col-md-4">
-                <h4>About Us</h4>
-                <div>Passionate, Motivated and Energized College Students</div>
+                <a href="about.php"<button type="button" class="btn btn-outline-info">About Us</button></a>
+                <div><br>Passionate, Motivated and Energized College Students</div>
               </div>
               <div class="col-md-4">
-                <h4>Our Address</h4>
-                <div>Patna, Bihar<br> Pin Code - 803212 India</div>
+              <a href="index.php"<button type="button" class="btn btn-outline-info">Our Address</button></a>
+                <div><br>Patna, Bihar<br> Pin Code - 803212 India</div>
               </div>
               <div class="col-md-4">
-                <h4>Contact Us</h4>
-                <button class='btn btn-primary '>Mail Us <i class="fas fa-envelope"></i></button>
+              <a href="contact.php"<button type="button" class="btn btn-outline-info">Contact Us</button></a>
+                <button class='btn btn-primary' >Mail Us <i class="fas fa-envelope"></i></button>
               </div>
             </div>
           </div>
