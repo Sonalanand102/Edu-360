@@ -37,7 +37,7 @@
   </tr>
 </tbody></table>
 
-## If you liked the project don't forget to star 🌟 and fork 🍽 the project.
+## If you liked the project don't forget to star 🌟 and fork 🍽 
 
 <h2 align="center">Made with ❤ by Brainless Buddies</h2>
 
