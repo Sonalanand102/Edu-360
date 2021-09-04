@@ -8,11 +8,16 @@ include 'assets/navbar.php';
         <div class="col-md-6 text-white my-5">
             <h1 >It’s time we started <span id='brainless'>BRAINLESS</span> each other. </h1>
             <div ><i class="fas fa-dove"></i> <i class="fas fa-dove"></i></div>
-            <p class='mt-4'>Hello there, This is EDU-360. One stop destination for Academics plus Innovative Workspace for AKU.
             <br>
-            <br> ExamSpace - A place to find the previous year papers that serves the new AKU curriculum</br>
-            <br> LearnSpace - A place to find study materials of respective semesters. </br>
             
+            <p class='mt-4'>
+            <h2>Hello there, This is EDU-360. <br>One stop destination for Academics plus Innovative Workspace for AKU.</h2>
+            <br><h3>Here are some features of EDU-360</h3><br>
+
+            ExamSpace - A place to find the previous year papers that serves the new AKU curriculum
+            <br><br> LearnSpace - A place to find study materials of respective semesters
+            <br><br>Blog Section - In this section anyone with login credentials can post blogs
+            <br><br> Discussion Panel - All the queries and doubts will be resolved here
 
             </p>
             <button id='register-btn'>Register yourself</button>
