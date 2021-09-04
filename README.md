@@ -16,7 +16,7 @@
  - `Our Respective Solutions`
   1. Learn Space - Here all the study material links will be provided.
   2. Exam Space - All the PYQ's will be present in this section.
-  3. Blog Section 7 In this section anyone with login credentials can post blogs.
+  3. Blog Section - In this section anyone with login credentials can post blogs.
   4. Discussion Panel - All the queries and doubts will be resolved here.
   5. Contact Us section - Any suggestions are welcomed and if anyone want to contribute they can.
      Also this project is an open source.
