@@ -53,21 +53,22 @@ include 'assets/navbar.php';
                 </tr>
             </thead>
             <tbody >
+                <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'" >
+                    <td class='pl-4'>04-Sept-2021</td>
+                    <td class='text-center'>Response required for English Communication Skills Training.</td>
+                </tr>
+                <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+                    <td class='pl-4'>5-Sept-2021</td>
+                    <td class='text-center'>Teacher's Day Celebration at BCE Campus.</td>
+                </tr>
+                
                 <tr  onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
                     <td class='pl-4'>16-Sept-2021</td>
                     <td class='text-center'>Induction Session | GDSC BCE Patna</td>
                 </tr>
-                <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'" >
-                    <td class='pl-4'>12-1-2021</td>
-                    <td class='text-center'>Lorem ipsum dolor, sit amet consectetur adipisicing Lorem, ipsum dolor.</td>
-                </tr>
                 <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-                    <td class='pl-4'>12-1-2021</td>
-                    <td class='text-center'>Lorem ipsum dolor, sit amet consectetur adipisicing Lorem, ipsum dolor.</td>
-                </tr>
-                <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-                    <td class='pl-4'>12-1-2021</td>
-                    <td class='text-center'>Lorem ipsum dolor, sit amet consectetur adipisicing Lorem, ipsum dolor.</td>
+                    <td class='pl-4'>18-Sept-2021</td>
+                    <td class='text-center'>Result of B.Tech 4th sem is out.</td>
                 </tr>
             </tbody>
         </table>
