@@ -37,3 +37,12 @@
  <td align="center"><a href="https://github.com/Shruti3004"><img alt="" src="https://i.ibb.co/D41QvhT/fd32447769e741d188708bcf49eb81d6.jpg" width="100px;" height=" 150px;"><br><sub><b> Nitish Kumar </b></sub></a><br>💻 </a></td></a></td>
   </tr>
 </tbody></table>
+
+## If you liked the project don't forget to star 🌟 and fork 🍽 the project.
+
+<h2 align="center">Made with ❤ by Brainless Buddies</h2>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
