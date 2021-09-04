@@ -29,14 +29,14 @@
                     <div class="blog-inner heading-color">
                         <div class="blog-image">
                             <a href="" class="image"><img
-                                    src="assets\images\BCE-logo.jpg" alt="" height='100%' width='100%'></a>
+                                    src="assets\images\dsa.jpg" alt="" height='100%' width='100%'></a>
                             <ul class="meta theme-color" style="list-style: none;">
-                                <li>12-5-2021<i class="fa fa-clock"></i></li>
+                                <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                             </ul>
                         </div>
                         <div class="content" style="margin-left: 20px;">
                             <h3 class="title"><a
-                                    href="">Lorem ipsum dolor sit amet.</a>
+                                    href="">Data Structure and Algorithms</a>
                             </h3>
                         </div>
                     </div>
@@ -51,14 +51,14 @@
                     <div class="blog-inner heading-color">
                         <div class="blog-image">
                             <a href="" class="image"><img
-                                    src="assets\images\BCE-logo.jpg" alt="" height='100%' width='100%'></a>
+                                    src="assets\images\daa.jpg" alt="" height='100%' width='100%'></a>
                             <ul class="meta theme-color" style="list-style: none;">
-                                <li>12-5-2021<i class="fa fa-clock"></i></li>
+                                <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                             </ul>
                         </div>
                         <div class="content" style="margin-left: 20px;">
                             <h3 class="title"><a
-                                    href="">Lorem ipsum dolor sit amet.</a>
+                                    href="">Design and Analysis of Algorithms</a>
                             </h3>
                         </div>
                     </div>
@@ -72,14 +72,14 @@
                     <div class="blog-inner heading-color">
                         <div class="blog-image">
                             <a href="" class="image"><img
-                                    src="assets\images\BCE-logo.jpg" alt="" height='100%' width='100%'></a>
+                                    src="assets\images\os.jpg" alt="" height='100%' width='100%'></a>
                             <ul class="meta theme-color" style="list-style: none;">
-                                <li>12-5-2021<i class="fa fa-clock"></i></li>
+                                <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                             </ul>
                         </div>
                         <div class="content" style="margin-left: 20px;">
                             <h3 class="title"><a
-                                    href="">Lorem ipsum dolor sit amet.</a>
+                                    href="">Operating System</a>
                             </h3>
                         </div>
                     </div>
@@ -103,14 +103,14 @@
                 <div class="blog-inner heading-color">
                     <div class="blog-image">
                         <a href="" class="image"><img
-                                src="assets\images\BCE-logo.jpg" alt="" height='100%' width='100%'></a>
+                                src="assets\images\coa.jpg" alt="" height='100%' width='100%'></a>
                         <ul class="meta theme-color" style="list-style: none;">
-                            <li>12-5-2021<i class="fa fa-clock"></i></li>
+                            <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                         </ul>
                     </div>
                     <div class="content" style="margin-left: 20px;">
                         <h3 class="title"><a
-                                href="">Lorem ipsum dolor sit amet.</a>
+                                href="">Computer Organization and Architecture</a>
                         </h3>
                     </div>
                 </div>
@@ -125,14 +125,14 @@
                 <div class="blog-inner heading-color">
                     <div class="blog-image">
                         <a href="" class="image"><img
-                                src="assets\images\BCE-logo.jpg" alt="" height='100%' width='100%'></a>
+                                src="assets\images\dbms.jpg" alt="" height='100%' width='100%'></a>
                         <ul class="meta theme-color" style="list-style: none;">
-                            <li>12-5-2021<i class="fa fa-clock"></i></li>
+                            <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                         </ul>
                     </div>
                     <div class="content" style="margin-left: 20px;">
                         <h3 class="title"><a
-                                href="">Lorem ipsum dolor sit amet.</a>
+                                href="">Database Manangement System</a>
                         </h3>
                     </div>
                 </div>
@@ -146,14 +146,14 @@
                 <div class="blog-inner heading-color">
                     <div class="blog-image">
                         <a href="" class="image"><img
-                                src="assets\images\BCE-logo.jpg" alt="" height='100%' width='100%'></a>
+                                src="assets\images\toc.png" alt="" height='100%' width='100%'></a>
                         <ul class="meta theme-color" style="list-style: none;">
-                            <li>12-5-2021<i class="fa fa-clock"></i></li>
+                            <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                         </ul>
                     </div>
                     <div class="content" style="margin-left: 20px;">
                         <h3 class="title"><a
-                                href="">Lorem ipsum dolor sit amet.</a>
+                                href="">Theory of Computation</a>
                         </h3>
                     </div>
                 </div>
@@ -175,14 +175,14 @@
                     <div class="blog-inner heading-color">
                         <div class="blog-image">
                             <a href="" class="image"><img
-                                    src="assets\images\BCE-logo.jpg" alt="" height='100%' width='100%'></a>
+                                    src="assets\images\ai.jpg" alt="" height='100%' width='100%'></a>
                             <ul class="meta theme-color" style="list-style: none;">
-                                <li>12-5-2021<i class="fa fa-clock"></i></li>
+                                <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                             </ul>
                         </div>
                         <div class="content" style="margin-left: 20px;">
                             <h3 class="title"><a
-                                    href="">Lorem ipsum dolor sit amet.</a>
+                                    href="">Artificial Intelligence</a>
                             </h3>
                         </div>
                     </div>
@@ -197,14 +197,14 @@
                     <div class="blog-inner heading-color">
                         <div class="blog-image">
                             <a href="" class="image"><img
-                                    src="assets\images\BCE-logo.jpg" alt="" height='100%' width='100%'></a>
+                                    src="assets\images\ml.jpg" alt="" height='100%' width='100%'></a>
                             <ul class="meta theme-color" style="list-style: none;">
-                                <li>12-5-2021<i class="fa fa-clock"></i></li>
+                                <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                             </ul>
                         </div>
                         <div class="content" style="margin-left: 20px;">
                             <h3 class="title"><a
-                                    href="">Lorem ipsum dolor sit amet.</a>
+                                    href="">Machine Learning</a>
                             </h3>
                         </div>
                     </div>
@@ -218,14 +218,14 @@
                     <div class="blog-inner heading-color">
                         <div class="blog-image">
                             <a href="" class="image"><img
-                                    src="assets\images\BCE-logo.jpg" alt="" height='100%' width='100%'></a>
+                                    src="assets\images\cn.jpg" alt="" height='100%' width='100%'></a>
                             <ul class="meta theme-color" style="list-style: none;">
-                                <li>12-5-2021<i class="fa fa-clock"></i></li>
+                                <li>4-Sept-2021<i class="fa fa-clock"></i></li>
                             </ul>
                         </div>
                         <div class="content" style="margin-left: 20px;">
                             <h3 class="title"><a
-                                    href="">Lorem ipsum dolor sit amet.</a>
+                                    href="">Computer Networks</a>
                             </h3>
                         </div>
                     </div>
