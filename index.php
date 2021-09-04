@@ -54,7 +54,7 @@ include 'assets/navbar.php';
             </thead>
             <tbody >
                 <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-                    <td class='pl-4'>2-Sept-2021</td>
+                    <td class='pl-4'>02-Sept-2021</td>
                     <td class='text-center'>Result of B.Tech 4th sem is out.</td>
                 </tr>
                 <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'" >
@@ -62,7 +62,7 @@ include 'assets/navbar.php';
                     <td class='text-center'>Response required for English Communication Skills Training.</td>
                 </tr>
                 <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-                    <td class='pl-4'>5-Sept-2021</td>
+                    <td class='pl-4'>05-Sept-2021</td>
                     <td class='text-center'>Teacher's Day Celebration at BCE Campus.</td>
                 </tr>
                 
