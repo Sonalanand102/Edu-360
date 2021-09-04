@@ -11,7 +11,7 @@ include 'assets/navbar.php';
             <br>
             
             <p class='mt-4'>
-            <h2>Hello there, This is EDU-360. <br>One stop destination for Academics plus Innovative Workspace for AKU.</h2>
+            <h2>Hello there, This is EDU-360. </h2><br><h3>One stop destination for Academics plus Innovative Workspace for AKU.</h3>
             <br><h4>Here are some features of EDU-360</h4><br>
 
             ExamSpace - A place to find the previous year papers that serves the new AKU curriculum
@@ -53,6 +53,10 @@ include 'assets/navbar.php';
                 </tr>
             </thead>
             <tbody >
+                <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+                    <td class='pl-4'>2-Sept-2021</td>
+                    <td class='text-center'>Result of B.Tech 4th sem is out.</td>
+                </tr>
                 <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'" >
                     <td class='pl-4'>04-Sept-2021</td>
                     <td class='text-center'>Response required for English Communication Skills Training.</td>
@@ -66,10 +70,7 @@ include 'assets/navbar.php';
                     <td class='pl-4'>16-Sept-2021</td>
                     <td class='text-center'>Induction Session | GDSC BCE Patna</td>
                 </tr>
-                <tr onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
-                    <td class='pl-4'>18-Sept-2021</td>
-                    <td class='text-center'>Result of B.Tech 4th sem is out.</td>
-                </tr>
+                
             </tbody>
         </table>
     </div>
